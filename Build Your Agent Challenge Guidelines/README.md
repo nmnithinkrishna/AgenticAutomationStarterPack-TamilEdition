@@ -102,8 +102,8 @@ YourName_AgentName.zip
 
 ## 📅 Important Dates
 
-- Submission Deadline: 25 April 2026  
-- Results Announcement: 30 April 2026  
+- Submission Deadline: 09 August, 2026 6.00 PM  
+- Results Announcement: 18 August, 2026  
 
 ### Awards
 
