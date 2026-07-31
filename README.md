@@ -1,7 +1,7 @@
 # Your Starter Pack to Agentic Automation [Tamil Edition]
 July 31 - August 2 | Three  sessions | 1.5 hours each 
 
-Event time displays in your timezone. 
+https://community.uipath.com/events/details/uipath-chennai-presents-your-starter-pack-to-agentic-automation-tamil-edition/cohost-chennai/
 
 ❗Note: This series will be conducted entirely in Tamil.
 
