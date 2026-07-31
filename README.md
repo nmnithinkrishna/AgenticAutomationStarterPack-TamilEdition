@@ -92,6 +92,7 @@ https://community.uipath.com/events/details/uipath-chennai-presents-chapter-23-v
 [More details on timeline at the end of Session 2]
 
 Lock in your free seat
+
 https://community.uipath.com/events/details/uipath-chennai-presents-chapter-21-agent-builder-challenge/
 
 # Chapter 3- Campus, Careers & AI Agents: Live Demo + Real Talk
