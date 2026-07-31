@@ -54,6 +54,7 @@ See you on the other side of the screen super soon🚀
 [Friday, July 31 | 06:30 PM onwards]
 
 Lock in your free seat
+
 https://community.uipath.com/events/details/uipath-chennai-presents-chapter-13-rpa-amp-agents-better-together/
 
 # Chapter 2- Vibe Code Your First Agent
@@ -72,6 +73,7 @@ https://community.uipath.com/events/details/uipath-chennai-presents-chapter-13-r
 [Saturday, Aug 01 | 06:30 PM onwards]
 
 Lock in your free seat
+
 https://community.uipath.com/events/details/uipath-chennai-presents-chapter-23-vibe-code-your-first-agent/
 
 # Chapter 2.1- Agent Builder Challenge
@@ -108,4 +110,5 @@ https://community.uipath.com/events/details/uipath-chennai-presents-chapter-21-a
 [Sunday, Aug 02 | 06:30 PM onwards]
 
 Lock in your free seat
+
 https://community.uipath.com/events/details/uipath-chennai-presents-chapter-33-campus-careers-amp-ai-agents-live-demo-real-talk/
