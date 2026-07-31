@@ -2,8 +2,6 @@
 
 Aug 1, 6:30 – 8:00 PM (GMT+5:30)
 
-Event time displays in your timezone. 
-
 Chennai
 
 "Vibe coding" is simply building something using plain language and intuition — instead of writing complex code line by line. 
