@@ -40,8 +40,11 @@ See you on the other side of the screen super soon🚀
 
 # Your takeaway:
 ✅ Understand what RPA and AI Agents are — and how they work together
+
 ✅ See how real businesses use automation to get more done
+
 ✅ Know the difference between a bot that follows rules and an agent that thinks
+
 ✅ The confidence to say: "I get what Agentic Automation actually means."
 
 [Friday, July 31 | 06:30 PM onwards]
@@ -53,9 +56,13 @@ https://community.uipath.com/events/details/uipath-chennai-presents-chapter-13-r
 
 # Your takeaway:
 ✅ A live, working agent built from scratch — right in front of your eyes
+
 ✅ Hands-on familiarity with the UiPath platform and its agent-building tools
+
 ✅ A practical understanding of how to go from an idea to a deployed, orchestrated agent
+
 ✅ The low-code/no-code mindset to start building your own agents without fear
+
 ✅ The confidence to say: "I can build an agent too."
 
 [Saturday, Aug 01 | 06:30 PM onwards]
@@ -67,9 +74,13 @@ https://community.uipath.com/events/details/uipath-chennai-presents-chapter-23-v
 
 # Your takeaway:
 ✅This challenge is exclusively for attendees of Chapter 1 & Chapter 2
+
 ✅You stand a chance to apply what you learnt & then build your own agent independently from scratch
+
 ✅Solve a real world problem
+
 ✅Program Certificate for all those who stays with us starting Chapter 1 until Agent Submission
+
 ✅Winner Rewards — Top three entries win a goodie voucher worth ₹7,500.
 
 [More details on timeline at the end of Session 2]
@@ -81,9 +92,13 @@ https://community.uipath.com/events/details/uipath-chennai-presents-chapter-21-a
 
 # Your takeaway:
 ✅A front-row view of AI agents solving real student challenges — exam results, counseling, and more
+
 ✅Understanding of how RPA and AI agents hand off tasks to each other in a real workflow
+
 ✅Clarity on how agentic automation is creating new career opportunities in tech and beyond
+
 ✅Awareness of programs, pathways & careers to kickstart your agentic journey
+
 ✅The Roadmap from Campus to Corporate
 
 [Sunday, Aug 02 | 06:30 PM onwards]
