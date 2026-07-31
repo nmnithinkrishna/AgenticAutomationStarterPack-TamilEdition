@@ -27,9 +27,13 @@ You'll get to see agents being built from scratch using UiPath tools and underst
 
 # BONUS
 🎁 All sessions are virtual, will be recorded and completely free to attend 
+
 🎁 Access to the UiPath Platform & it's tools to build your own projects (hands-on experience)
+
 🎁 Access to curated resources and repositories to continue learning beyond the sessions
+
 🎁 Participate in a Agent Builder Challenge and compete for prizes worth ₹7,500 + Program Certificate 
+
 🎁 Gateway to UiPath Student Developer Champion Program opportunities.
 
 See you on the other side of the screen super soon🚀
