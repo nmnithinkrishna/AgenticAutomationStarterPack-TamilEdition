@@ -10,11 +10,11 @@ RPA is the muscle. Agents are the brain. Together, they're end-to-end magic.
 💡Learn with Pure Local Vibes-  no complex terms, just clear concepts in your native tongue- TAMIL
 Hosted by UiPath
 
-#About this event
+# About this event
 
 Kandipa miss pannidadheenga — here's everything we're covering in this session. 👀
 
-Inside this session
+# Inside this session
 
 Welcome and framing — quick intros, audience context, and how today's session sets the stage for your Agentic AI journey
 
